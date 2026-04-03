@@ -19,6 +19,15 @@ You can install this skill directly into Claude Code using the following command
 claude skill add https://github.com/gpaiva00/pt-en-prompt
 ```
 
+Or:
+```bash
+# bun
+bunx skills add https://github.com/gpaiva00/pt-en-prompt
+
+# npm
+npx skills add https://github.com/gpaiva00/pt-en-prompt
+```
+
 ## Usage
 
 Simply type your request in Brazilian Portuguese within Claude Code. If the message contains colloquialisms, implicit requirements, or high urgency, the skill will kick in, process the request, and output a structured English prompt in a code block.
