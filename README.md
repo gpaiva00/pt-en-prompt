@@ -1,4 +1,8 @@
-# pt-en-prompt
+  
+    <center>
+<img src="https://i.ibb.co/fzYxJD1P/IMG-20260403-WA0026.jpg" width="600px" style="display: flex;" />
+      </center>
+
 
 A Claude Code skill that translates colloquial Brazilian Portuguese messages into highly structured English prompts. 
 
